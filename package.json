@@ -1,5 +1,5 @@
 {
-  "name": "slope-react-html5video",
+  "name": "@slope/react-html5video",
   "version": "1.4.1",
   "description": "",
   "main": "./dist/ReactHtml5Video.js",
